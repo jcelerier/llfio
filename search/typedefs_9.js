@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['listening_5ftls_5fsocket_5fhandle_5fptr_1645',['listening_tls_socket_handle_ptr',['../namespacellfio__v2__xxx.html#a1b0d8b81e15b9d2aec5dc7194c0e6d22',1,'llfio_v2_xxx']]],
-  ['log_5fimplementation_5ftype_1646',['log_implementation_type',['../namespacellfio__v2__xxx.html#aca929614e4fad8cb074325503044845a',1,'llfio_v2_xxx']]],
-  ['log_5flevel_1647',['log_level',['../namespacellfio__v2__xxx.html#a8b7cb2a8ae49464e9a5b708f1d6b4783',1,'llfio_v2_xxx']]]
+  ['mode_0',['mode',['../structkvstore__v1__xxx_1_1basic__key__value__store__info.html#a2c1743edd93e794407f21911c9f72483',1,'kvstore_v1_xxx::basic_key_value_store_info::mode'],['../classkvstore__v1__xxx_1_1basic__key__value__store.html#ad7d315f979abada8f65bb8ccfa19efe6',1,'kvstore_v1_xxx::basic_key_value_store::mode']]]
 ];

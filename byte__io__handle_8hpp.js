@@ -1,11 +1,12 @@
 var byte__io__handle_8hpp =
 [
-    [ "byte_io_handle", "classllfio__v2__xxx_1_1byte__io__handle.html", "classllfio__v2__xxx_1_1byte__io__handle" ],
-    [ "pollable_handle", "classllfio__v2__xxx_1_1pollable__handle.html", "classllfio__v2__xxx_1_1pollable__handle" ],
-    [ "poll", "byte__io__handle_8hpp.html#a727d8ebc7f42ff3124d1734a1a1f0563", null ],
-    [ "QUICKCPPLIB_BITFIELD_BEGIN_T", "byte__io__handle_8hpp.html#a26baf26ed8a75301a92134497cc3ac8a", null ],
-    [ "QUICKCPPLIB_BITFIELD_END", "byte__io__handle_8hpp.html#abde2ff6c2085a19f9968ba3b628f3ae3", null ],
-    [ "read", "byte__io__handle_8hpp.html#acbd9eb25fed94bb0bc8fa888b3c26bdf", null ],
-    [ "write", "byte__io__handle_8hpp.html#a04b4a9d45c9739fbcba139c2cecfb80b", null ],
-    [ "write", "byte__io__handle_8hpp.html#a59a3e33e0a5f68b867049fd640059b4d", null ]
+    [ "llfio_v2_xxx::byte_io_handle", "classllfio__v2__xxx_1_1byte__io__handle.html", "classllfio__v2__xxx_1_1byte__io__handle" ],
+    [ "llfio_v2_xxx::byte_io_handle::buffer_type", "structllfio__v2__xxx_1_1byte__io__handle_1_1buffer__type.html", "structllfio__v2__xxx_1_1byte__io__handle_1_1buffer__type" ],
+    [ "llfio_v2_xxx::byte_io_handle::const_buffer_type", "structllfio__v2__xxx_1_1byte__io__handle_1_1const__buffer__type.html", "structllfio__v2__xxx_1_1byte__io__handle_1_1const__buffer__type" ],
+    [ "llfio_v2_xxx::byte_io_handle::_registered_buffer_type", "structllfio__v2__xxx_1_1byte__io__handle_1_1__registered__buffer__type.html", null ],
+    [ "llfio_v2_xxx::byte_io_handle::io_request< T >", "structllfio__v2__xxx_1_1byte__io__handle_1_1io__request.html", null ],
+    [ "llfio_v2_xxx::byte_io_handle::io_result< T >", "structllfio__v2__xxx_1_1byte__io__handle_1_1io__result.html", "structllfio__v2__xxx_1_1byte__io__handle_1_1io__result" ],
+    [ "read", "byte__io__handle_8hpp.html#a483c81915f6309532631885ebea04a12", null ],
+    [ "write", "byte__io__handle_8hpp.html#ad7af6bc8e0ad0b08150fabb781190459", null ],
+    [ "write", "byte__io__handle_8hpp.html#a99eabbb6d03c2cd4324a884ed8434ef6", null ]
 ];

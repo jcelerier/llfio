@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['operator_3c_3c_1756',['operator&lt;&lt;',['../classllfio__v2__xxx_1_1ip_1_1address.html#a376449b224474bb9e76e5de5ff0079d2',1,'llfio_v2_xxx::ip::address']]]
+  ['to_5fwin32_5fpath_0',['to_win32_path',['../classllfio__v2__xxx_1_1fs__handle.html#af0fa5755fb5adfde2ebd8de60aa16c3c',1,'llfio_v2_xxx::fs_handle']]]
 ];

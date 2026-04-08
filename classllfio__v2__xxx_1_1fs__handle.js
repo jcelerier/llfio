@@ -1,0 +1,26 @@
+var classllfio__v2__xxx_1_1fs__handle =
+[
+    [ "path_view_type", "classllfio__v2__xxx_1_1fs__handle.html#abcd8c8171f4e561620864295e8d5879b", null ],
+    [ "unique_id_type", "classllfio__v2__xxx_1_1fs__handle.html#a1a65884346740af7fb4648c79d44a750", null ],
+    [ "unique_id_type_hasher", "classllfio__v2__xxx_1_1fs__handle.html#ab82a83c5e44659e01a2218f0af41bde7", null ],
+    [ "fs_handle", "classllfio__v2__xxx_1_1fs__handle.html#a1d2070f6019c86e19de3707bf59ffa97", null ],
+    [ "fs_handle", "classllfio__v2__xxx_1_1fs__handle.html#a282f0296cda08ad5ce2f9add2c16a77d", null ],
+    [ "fs_handle", "classllfio__v2__xxx_1_1fs__handle.html#a69cc7b561e6ef3a54ccfb2c4743e5c6f", null ],
+    [ "fs_handle", "classllfio__v2__xxx_1_1fs__handle.html#afbebcaabf0282923ff76f6a83d3b4073", null ],
+    [ "_fetch_inode", "classllfio__v2__xxx_1_1fs__handle.html#af11804f144a9c95b03ce431cdcf41148", null ],
+    [ "copy_extended_attributes", "classllfio__v2__xxx_1_1fs__handle.html#ab77ab0e6128cc79fc88d27ab16b1dfe4", null ],
+    [ "get_extended_attribute", "classllfio__v2__xxx_1_1fs__handle.html#a421c7f47706ed774d98cdbcc3b580d9c", null ],
+    [ "link", "classllfio__v2__xxx_1_1fs__handle.html#a7eda0c5e6795f31f98f74eb9063a70ed", null ],
+    [ "list_extended_attributes", "classllfio__v2__xxx_1_1fs__handle.html#a2899c3cabc9101bbd1eca895668a2d83", null ],
+    [ "operator=", "classllfio__v2__xxx_1_1fs__handle.html#a43d237ebe8efc8682f4c31c2aff68aff", null ],
+    [ "operator=", "classllfio__v2__xxx_1_1fs__handle.html#a2182c799ac54baa85ff4d1e06b04528a", null ],
+    [ "parent_path_handle", "classllfio__v2__xxx_1_1fs__handle.html#a79a4bc903ac41d8fcca6b8c55c6bcc76", null ],
+    [ "relink", "classllfio__v2__xxx_1_1fs__handle.html#a8574050f1988a925322d5a60a84c714b", null ],
+    [ "remove_extended_attribute", "classllfio__v2__xxx_1_1fs__handle.html#a7bf5f372c10a6e643797bd763b0ed7e0", null ],
+    [ "set_extended_attribute", "classllfio__v2__xxx_1_1fs__handle.html#a1bf22bb7a215f7f150f57f0a77164026", null ],
+    [ "st_dev", "classllfio__v2__xxx_1_1fs__handle.html#ac24ed4cdb96690d7da95cd17b0f3d090", null ],
+    [ "st_ino", "classllfio__v2__xxx_1_1fs__handle.html#aad6465d30ee438b860ccc59c0e0fc4dc", null ],
+    [ "unique_id", "classllfio__v2__xxx_1_1fs__handle.html#a9793fe40564fda2437783488bd51b9f1", null ],
+    [ "unlink", "classllfio__v2__xxx_1_1fs__handle.html#a7b4f17a0b437d430a37d3875d8570bf2", null ],
+    [ "to_win32_path", "classllfio__v2__xxx_1_1fs__handle.html#af0fa5755fb5adfde2ebd8de60aa16c3c", null ]
+];
